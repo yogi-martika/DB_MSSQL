@@ -1,0 +1,1 @@
+create table ver.Table_DDL_Exixsting (Nofile bigint,Filename VARCHAR(100),Id bigint,DBName VARCHAR(50),FinalScript VARCHAR(MAX),CreatedDate datetime,IsExport BIT default 0,ExportDate datetime,IsGenerate datetime)
