@@ -1,1 +1,0 @@
-ALTER TABLE dbo.Tmp_yogi_tes2 SET (LOCK_ESCALATION = TABLE)

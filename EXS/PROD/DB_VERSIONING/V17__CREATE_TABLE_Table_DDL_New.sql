@@ -1,1 +1,0 @@
-create table ver.Table_DDL_New (Nofile bigint,Id bigint,DBName VARCHAR(50),FinalScript VARCHAR(MAX),BackupScript VARCHAR(1500),RestoreScript VARCHAR(1500),CreatedDate datetime,IsExport BIT default 0,ExportDate datetime,IsGenerate datetime)

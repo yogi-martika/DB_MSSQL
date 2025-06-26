@@ -1,1 +1,0 @@
-ALTER TABLE ver.Table_DDL_Exixsting SET (LOCK_ESCALATION = TABLE)
